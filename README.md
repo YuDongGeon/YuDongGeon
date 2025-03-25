@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"  />
 </div>
 
 ###
@@ -18,11 +18,15 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/YuDongGeon/YuDongGeon/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h1 align="center">Hello World!</h1>
 
 ###
 
-<h3 align="left">👋  Introduction</h3>
+<h2 align="left">👋  Introduction</h2>
 
 ###
 
@@ -30,7 +34,7 @@
 
 ###
 
-<h3 align="left">🧑‍💻 What You Do</h3>
+<h2 align="left">🧑‍💻 What You Do</h2>
 
 ###
 
@@ -38,7 +42,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -54,12 +58,13 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YuDongGeon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YuDongGeon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YuDongGeon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
