@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">Hello World!</h1>
+<h1 align="center">HelloWorld(“print”)</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">- First Name : Dong Geon<br>- Last Name : Yu<br>- Place of Birth: Korea</p>
+<p align="left">- First Name : Donggeon<br>- Last Name : Yu<br>- Place of Birth: Korea</p>
 
 ###
 
