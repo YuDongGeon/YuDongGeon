@@ -2,3 +2,5 @@ AT 명령 모드 진입 중...
 명령 모드 응답: b''
 XBee 응답 없음
 배선, 전원, 9600 baud, 투명 모드(AP=0)를 확인하세요.
+
+sudo fuser -v /dev/serial0
