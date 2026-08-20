@@ -4,3 +4,4 @@ XBee 응답 없음
 배선, 전원, 9600 baud, 투명 모드(AP=0)를 확인하세요.
 
 sudo fuser -v /dev/serial0
+ss
